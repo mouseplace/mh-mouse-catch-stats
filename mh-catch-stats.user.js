@@ -479,7 +479,12 @@
 			width: 250px;
 			background: #f6f3eb;
 			border: 1px solid #534022;
-			box-shadow: 1px 1px 1px 0px #9d917f, 0 0 20px 3px black;
+			width: 250px;
+			box-shadow: 1px 1px 1px 0px #9d917f, 1px 3px 5px 0px #6c6c6c;
+		}
+
+		.mh-is-dragging .mh-catch-stats-wrapper {
+		    box-shadow: 1px 1px 1px 0px #9d917f, 0px 7px 9px 2px #6c6c6c;
 		}
 
 		.mh-catch-stats-header {
