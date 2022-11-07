@@ -481,6 +481,7 @@
 			border: 1px solid #534022;
 			width: 250px;
 			box-shadow: 1px 1px 1px 0px #9d917f, 1px 3px 5px 0px #6c6c6c;
+			transition: box-shadow .25s;
 		}
 
 		.mh-is-dragging .mh-catch-stats-wrapper {
